@@ -1,0 +1,59 @@
+{
+  "clients": [
+    {
+      "_id": "625b48b49d5ec30f9d67bb8b",
+      "name": "Joan Pérez",
+      "address": {
+        "street": "Gran Via Street",
+        "number": "10",
+        "floor": "2nd",
+        "door": "A",
+        "city": "Barcelona",
+        "postal_code": "08002",
+        "country": "Spain"
+      },
+      "phone": "+34 600 123 456",
+      "email": "joan.perez@gmail.com",
+      "registration_date": "2025-04-22T12:00:00Z",
+      "referred_by": "625b48b49d5ec30f9d67bb8c",  
+      "purchases": [
+        {
+          "sale_date": "2025-04-22T15:00:00Z",  
+          "price": 120.50,  
+          "employee": {
+            "_id": "625b48b49d5ec30f9d67bb8d", 
+            "name": "Maria Gómez",
+            "position": "Sales Assistant"
+          },
+          "glasses": {
+            "_id": "625b48b49d5ec30f9d67bb8e",
+            "brand": "Ray-Ban",
+            "graduation_left": "SPH -2.00, CYL -1.00",
+            "graduation_right": "SPH -2.50, CYL -1.25",
+            "frame_type": "metal",
+            "frame_color": "gold",
+            "lens_color_left": "green",
+            "lens_color_right": "green",
+            "price": 120.50,
+            "supplier": {
+              "_id": "625b48b49d5ec30f9d67bb8f",
+              "name": "Eyewear Supplier Inc.",
+              "address": {
+                "street": "Liberty Street",
+                "number": "45",
+                "floor": "3rd",
+                "door": "B",
+                "city": "Barcelona",
+                "postal_code": "08001",
+                "country": "Spain"
+              },
+              "phone": "+34 93 123 45 67",
+              "fax": "+34 93 123 45 68",
+              "nif": "B12345678"
+            }
+          }
+        }
+      ]
+    }
+  ]
+}
