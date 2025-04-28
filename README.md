@@ -1,5 +1,5 @@
-#S2.03-EstructuraDeDatos-MongoDB-Nivel1-Ej1
-##Summary: exercise description
+# S2.03-EstructuraDeDatos-MongoDB-Nivel1-Ej1
+## Summary: exercise description
 An optician, called “Cul d'Ampolla”, wants to computerize the management of customers and sales of glasses.
 
 First of all, the optician wants to know who the supplier of each pair of glasses is. Specifically, it wants to know about each supplier: The name, the address (street, number, floor, door, city, postal code and country), telephone, fax, NIF.
@@ -10,12 +10,12 @@ About the customers, it wants to store: The name, the postal address, the phone,
 
 Imagine we have the following graphical interface, from the point of view of an Optician customer. How would you design the database that would facilitate the information?
 
-##Technologies Used
+## Technologies Used
 Requirements:
 
 Installing MongoDB Compass: Make sure you have MongoDB Compass installed on your system. If you don't have it, you can download it from the official MongoDB website.
 Connecting to your Database: Open MongoDB Compass and connect to your MongoDB instance.
 Contribution
-##Contributions are welcome! Please follow these steps to contribute:
+## Contributions are welcome! Please follow these steps to contribute:
 
 -Fork the repository -Create a new branch git checkout -b feature/NewFeature -Make your changes and commit them: git commit -m 'Add New Feature' -Upload the changes to your branch: git push origin feature/NewFeature -Make a pull request
