@@ -20,4 +20,8 @@ Connecting to your Database: Open MongoDB Compass and connect to your MongoDB in
 Contribution
 ## Contributions are welcome! Please follow these steps to contribute:
 
--Fork the repository -Create a new branch git checkout -b feature/NewFeature -Make your changes and commit them: git commit -m 'Add New Feature' -Upload the changes to your branch: git push origin feature/NewFeature -Make a pull request
+- Fork the repository -Create a new branch git checkout -b feature/NewFeature
+
+- Make your changes and commit them: git commit -m 'Add New Feature'
+
+-  Upload the changes to your branch: git push origin feature/NewFeature -Make a pull request
