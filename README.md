@@ -8,7 +8,9 @@ About the glasses, it wants to know: The brand, the prescription of each lens, t
 
 About the customers, it wants to store: The name, the postal address, the phone, the email, the date of registration. When a new customer arrives, store the customer who recommended the establishment to them (provided that someone has recommended them). Our system must indicate who the employee was who sold each pair of glasses. Defines the day/time the sale is made.
 
-Imagine we have the following graphical interface, from the point of view of an Optician customer. How would you design the database that would facilitate the information?
+- Exercise 1: Imagine we have the following graphical interface, from the point of view of an Optician customer. How would you design the database that would facilitate the information?
+
+- Exercise 2: What if the point of view was the interface and the glasses?
 
 ## Technologies Used
 Requirements:
